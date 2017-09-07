@@ -95,7 +95,7 @@
 
     "api": {
         "enabled": true,
-        "hashrateWindow": 600,
+        "hashrateWindow": 90,
         "updateInterval": 5,
         "port": 8117,
         "blocks": 30,
