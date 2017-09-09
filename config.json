@@ -26,22 +26,22 @@
         "ports": [
             {
                 "port": 3333,
-                "difficulty": 100,
-                "desc": "Low end hardware"
+                "difficulty": 1000,
+                "desc": "CPU o GPU sotto i 400h/s"
             },
             {
                 "port": 5555,
-                "difficulty": 2000,
-                "desc": "Mid range hardware"
+                "difficulty": 8000,
+                "desc": "rig max 3 gpu"
             },
             {
                 "port": 7777,
-                "difficulty": 10000,
-                "desc": "High end hardware"
+                "difficulty": 19000,
+                "desc": "rig da 3+ gpu"
             },
             {
                 "port": 8888,
-                "difficulty": 10000,
+                "difficulty": 1000,
                 "desc": "Hidden port",
                 "hidden": true
             }
