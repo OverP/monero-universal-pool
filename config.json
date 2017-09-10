@@ -26,17 +26,17 @@
         "ports": [
             {
                 "port": 3333,
-                "difficulty": 1000,
+                "difficulty": 500,
                 "desc": "CPU o GPU sotto i 400h/s"
             },
             {
                 "port": 5555,
-                "difficulty": 8000,
+                "difficulty": 10000,
                 "desc": "rig max 3 gpu"
             },
             {
                 "port": 7777,
-                "difficulty": 19000,
+                "difficulty": 25000,
                 "desc": "rig da 3+ gpu"
             },
             {
@@ -52,7 +52,7 @@
             "targetTime": 45,
             "retargetTime": 30,
             "variancePercent": 30,
-            "maxJump": 350
+            "maxJump": 100
         },
         "fixedDiff": {
             "enabled": true,
