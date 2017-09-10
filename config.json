@@ -19,7 +19,8 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "4ALBnoUh6GghVxwDCZ7Hq7KMwJaEY9gm9AwqgVfVFoX5Zok3XbUZiNgiKxnzZrx32YfQmof2qt7SEZTDgpqEV9q2AaN7HXp",
+        "poolAddress": "48h5AFcsCfEYVXC3zX5Vwb81jfQVzbEu3WViTWNMAcwfXn6t1tV2LdH29HteSz9c7vV8nwwg8ye8bUTFoBXuJX1TBNFjKu3
+",
 "addressBase58Prefix": 18,
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
