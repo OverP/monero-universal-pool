@@ -36,7 +36,7 @@
             },
             {
                 "port": 7777,
-                "difficulty": 25000,
+                "difficulty": 15000,
                 "desc": "rig da 3+ gpu"
             },
             {
